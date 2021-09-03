@@ -2,7 +2,7 @@
   "places": [
     { "id": 1, "title": "Oakville", "Windspeed": 23 },
     { "id": 2, "title": "Hamilton", "Windspeed": 23 }
-  ]
+  ],
   "profile": {
     "name": "Andrew"
   }
